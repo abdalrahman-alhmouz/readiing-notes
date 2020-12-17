@@ -15,3 +15,9 @@
 - [Design Structure](https://semo4.github.io/reading-notes/Design-Structure)
 - [CSS](https://semo4.github.io/reading-notes/CSS-Styling)
 - [Java](https://semo4.github.io/reading-notes/JavaScript)
+
+i learn :
+ 
+ 1 - how to go on .
+ 2 - make stuff
+ 3 - dont stop 
