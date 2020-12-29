@@ -6,3 +6,10 @@
 
  ## Also, my knowledge of (while , for ) increased 
  * as i learnd reset css 
+  ### how to do a link ?
+   1 - by using ("<a>") THIS IMG will explain :
+ ![alink](https://www.guru99.com/images/image002.png)
+ * finale we learn about layout it interistng :
+ ![layot](https://media.geeksforgeeks.org/wp-content/uploads/website_layout-300x268.png)
+  - how to control it ?
+ - how to Improve their looks ؟
