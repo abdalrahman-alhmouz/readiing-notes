@@ -28,6 +28,7 @@
      #### java sscript function :
   * A JavaScript function is a block of code designed to perform a particular task.
  - A JavaScript function is executed when "something" invokes it (calls it).
+ ![function](https://www.codeproject.com/KB/scripting/1130815/Function1-300x154.png)
  #### 6 Reasons for Pair Programming :
 1. Greater efficiency
 It is a common misconception that pair programming takes a lot longer and is less efficient. In reality, when two people focus on the same code base, it is easier to catch mistakes in the making. Research indicates that pair programing takes slightly longer, but produces higher-quality code that doesn’t require later effort in troubleshooting and debugging (let alone exposing users to a broken product). So, in the long-run, it’s often actually more efficient than two people working on separate features. When coming up with ideas and discussing solutions out loud, two programmers may come to a solution faster than one programmer on their own. Also, when the pair is stuck, both programmers can research the problem and reach a solution faster. Researches also identified pairing enhances technical skills, team communication, and even enjoyability of coding in the workplace.
