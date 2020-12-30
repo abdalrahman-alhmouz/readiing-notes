@@ -18,7 +18,17 @@
  - You can use a shorthand known as a relative URL.
  ![aurl](https://images.slideplayer.com/12/3426815/slides/slide_8.jpg)
   
+
  * finale we learn about layout it interistng :
+ ### layot :
+ *CSS treats each HTML element as if it is in its own box. 
+ - This box will either be a block-level box or an inline box.
+CSS has the following positioning schemes that allow you to control the layout of a page:
+- normal flow, relative positioning, and absolute positioning. 
+- You specify the positioning scheme using the position property in CSS. 
+- You can also float elements using the float property.
+ - To indicate where a box should be positioned, 
+- you may also need to use box offset properties to tell the browser how far from the top or bottom and left or right it should be placed.
  ![layot](https://media.geeksforgeeks.org/wp-content/uploads/website_layout-300x268.png)
  #### emAiL Links :
  * To create a link that starts up the user's email program and addresses an email to a specified email address,
