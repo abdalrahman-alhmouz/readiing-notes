@@ -46,7 +46,40 @@ The <p> element defines a paragraph
  ![modifiy](https://www.w3schools.com/csS/selector.gif)
  
  ## lits toak a little at java script :
- * 
-
-
+ * scripting language. JavaScript is used mainly for enhancing the interaction of a user with the webpage.
+  - In other words, you can make your webpage more lively and interactive,
+  - with the help of JavaScript. JavaScript is also being used widely in game development and Mobile application development.
+  You should place all your JavaScript code within <script> tags (<script> and </script>) if you are keeping your JavaScript code within the HTML document itself. 
+ - also you You should write comments to explain what your code does.
+ - They help make your code easier to read and understand.
+ - This can help you and others who read your code.
+  ![comment](https://prognotes.net/wp-content/uploads/2017/06/php-versus-javascript-comments.png)
  
+ *A script will have to temporarily
+store the bits of information it
+needs to do its job. It can store this
+data in variables.
+When you write JavaScript, you have to tell the
+interpreter every individual step that you want it to
+perform.
+This sometimes involves more detail than
+you might expect. 
+ ## array :
+ * You should consider using an
+array whenever you are working
+with a list or a set of values that
+are related to each other.
+ - Arrays are especially helpful
+when you do not know how
+many items a list will contain
+because, when you create the
+array, you do not need to specify
+how many values it will hold.  
+![array](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Array-In-C.png)
+### COMPARISON OPERATORS :
+ - as their name implies, allow you to compare two values.
+ * some of them :
+ ![opp](https://cdn.askpython.com/wp-content/uploads/2019/12/Python-Comparison-Operators.png)
+## loops :Loops are handy, if you want to run the same code over and over again, each time with a different value.
+![loop](https://www.homeandlearn.co.uk/javascript/images/chapter_3/for_loops.gif)
+
