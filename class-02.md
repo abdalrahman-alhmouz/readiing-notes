@@ -37,4 +37,16 @@ The <p> element defines a paragraph
  ![htmlparagraf](https://pinks10.files.wordpress.com/2013/10/strruct1.png?w=914)
  2 - css 
  ## CSS is the language we use to style an HTML document.
+ * CSS stands for Cascading Style Sheets .
+ - fondly referred to as CSS, is a simply designed language intended to simplify the process of making web pages presentable.
+ - CSS allows you to apply styles to web pages. More importantly,
+-  CSS enables you to do this independent of the HTML that makes up each web page.
+ - CSS is easy to learn and understood but it provides powerful control over the presentation of an HTML document.
+ * how you can modification in h1 ?
+ ![modifiy](https://www.w3schools.com/csS/selector.gif)
+ 
+ ## lits toak a little at java script :
+ * 
+
+
  
