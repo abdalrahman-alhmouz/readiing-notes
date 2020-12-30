@@ -10,4 +10,8 @@
    - value on other properties and is the default for other color properties, such as border-
   ![imgcolor](https://media.prod.mdn.mozit.cloud/attachments/2014/11/18/9461/012655e623bef579c9bd376e227bc648/css-declaration-small.png)
    ## text in CSS :
+  * we learnd a lot information about  text in CSS like how to change color , change bacground .
+  - and about box model , like gow to make a porder and controled it .
+ -  also how to Modification a margin and badding .
+ ![textimg](https://miro.medium.com/max/4180/1*-Vz0pppe963Gkr2SsMq02A.png)
   
